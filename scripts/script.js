@@ -3,4 +3,19 @@ function trocarCor(){
     tela.style.backgroundColor = "Red"
 
     // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    // Alteração no código
+    
 }
